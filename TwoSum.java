@@ -17,7 +17,15 @@ public class TwoSum{
 		int[] ret = new int[2];
 		HashMap<Integer, Integer> hashmap = new HashMap<Integer, Integer> ();
 		for(int i = 0; i < nums.length; i++){
-			hashmap.put(nums[i], i+1);
+      if(hashmap.containsKey(nums[i])){
+        if(nums[i] * 2 == target){
+          ret[0] = hashmap.get(nums[i]);
+          ret[1] = i;
+        }
+      }
+      else{
+			  hashmap.put(nums[i], i);
+      }
 		}
 		for(int j = 0; j < nums.length; j++){
 			if(hashmap.containsKey(nums[j])){
@@ -40,8 +48,9 @@ public class TwoSum{
 
 	public static void main(String[] args){
 		int[] s = {3, 2, 4};
-		System.out.println(twosum(s, 6)[0]);
-		System.out.println(twosum(s, 6)[1]);
+    int[] res = twosum(s, 6);
+		System.out.println(res[0]);
+		System.out.println(res[1]);
 		return ;
 	}
 }

@@ -11,3 +11,4 @@
 - [012: Integer to Roman](https://github.com/sulxxy/leetcode/blob/master/IntegerToRoman.java)
 - [013. Roman to Integer](https://github.com/sulxxy/leetcode/blob/master/RomantoInteger.java)
 - [014. Longest Common Prefix](https://github.com/sulxxy/leetcode/blob/master/LongestCommonPrefix.java)
+- [020. Valid Parentheses](https://github.com/sulxxy/leetcode/blob/master/ValidParentheses.java)

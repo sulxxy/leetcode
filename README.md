@@ -6,6 +6,7 @@
 - [005. Longest Palindromic Substring](https://github.com/sulxxy/leetcode/blob/master/LongestPalindromicSubString.java)
 - [006. ZigZag Conversion](https://github.com/sulxxy/leetcode/blob/master/ZigZagConversion.java)
 - [007. Reverse Integer](https://github.com/sulxxy/leetcode/blob/master/ReverseInteger.java)
+- [008. String to Integer(atoi)](https://github.com/sulxxy/leetcode/blob/master/StringtoInt.java)
 - [009. Palindrome Number](https://github.com/sulxxy/leetcode/blob/master/PalindromeNumber.java)
 - [011: Container with Most Water](https://github.com/sulxxy/leetcode/blob/master/ContainerWithMostWater.java)
 - [012: Integer to Roman](https://github.com/sulxxy/leetcode/blob/master/IntegerToRoman.java)

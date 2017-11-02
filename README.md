@@ -16,6 +16,7 @@
 - [019. Remove Nth Node From End of List](https://github.com/sulxxy/leetcode/blob/master/RemoveNthNodeFromEndofList.java)
 - [020. Valid Parentheses](https://github.com/sulxxy/leetcode/blob/master/ValidParentheses.java)
 - [021. Merge Two Sorted Lists](https://github.com/sulxxy/leetcode/blob/master/MergeTwoSortedLists.java)
+- [022. Generate Parentheses](https://github.com/sulxxy/leetcode/blob/master/GenerateParentheses.java)
 - [026. Remove Duplicates from Sorted Array](https://github.com/sulxxy/leetcode/blob/master/RemoveDuplicatesFromSortedArray.java)
 - [027. Remove Element](https://github.com/sulxxy/leetcode/blob/master/RemoveElement.java)
 - [028. Implement strStr()](https://github.com/sulxxy/leetcode/blob/master/StrStr.java)

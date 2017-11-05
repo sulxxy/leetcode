@@ -23,5 +23,6 @@
 - [026. Remove Duplicates from Sorted Array](https://github.com/sulxxy/leetcode/blob/master/RemoveDuplicatesFromSortedArray.java)
 - [027. Remove Element](https://github.com/sulxxy/leetcode/blob/master/RemoveElement.java)
 - [028. Implement strStr()](https://github.com/sulxxy/leetcode/blob/master/StrStr.java)
+- [035. Search Insert Position](https://github.com/sulxxy/leetcode/blob/master/SearchInsertPosition.java)
 - [038. Cound and Say](https://github.com/sulxxy/leetcode/blob/master/CountAndSay.java)
 - [176. Single Number](https://github.com/sulxxy/leetcode/blob/master/SingleNumber.java)

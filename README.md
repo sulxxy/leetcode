@@ -25,4 +25,5 @@
 - [028. Implement strStr()](https://github.com/sulxxy/leetcode/blob/master/StrStr.java)
 - [035. Search Insert Position](https://github.com/sulxxy/leetcode/blob/master/SearchInsertPosition.java)
 - [038. Cound and Say](https://github.com/sulxxy/leetcode/blob/master/CountAndSay.java)
+- [053. Maximum Subarray](https://github.com/sulxxy/leetcode/blob/master/MaximumSubarray.java)
 - [176. Single Number](https://github.com/sulxxy/leetcode/blob/master/SingleNumber.java)

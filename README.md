@@ -23,6 +23,7 @@
 - [026. Remove Duplicates from Sorted Array](https://github.com/sulxxy/leetcode/blob/master/RemoveDuplicatesFromSortedArray.java)
 - [027. Remove Element](https://github.com/sulxxy/leetcode/blob/master/RemoveElement.java)
 - [028. Implement strStr()](https://github.com/sulxxy/leetcode/blob/master/StrStr.java)
+- [029. Divide 2 Integers](https://github.com/sulxxy/leetcode/blob/master/DivideTwoIntegers.java)
 - [033. Search in Rotated Sorted Array](https://github.com/sulxxy/leetcode/blob/master/SearchInRotatedSortedArray.java)
 - [034. Search For a Range](https://github.com/sulxxy/leetcode/blob/master/SearchForARange.java)
 - [035. Search Insert Position](https://github.com/sulxxy/leetcode/blob/master/SearchInsertPosition.java)

@@ -33,5 +33,6 @@
 - [066. Plus One](https://github.com/sulxxy/leetcode/blob/master/PlusOne.java)
 - [070. Climb Stairs](https://github.com/sulxxy/leetcode/blob/master/ClimbStairs.java)
 - [083. Remove Duplicates from Sorted List](https://github.com/sulxxy/leetcode/blob/master/RemoveDuplicatesFromSortedList.java)
+- [084. Binary Tree Inorder Traverse](https://github.com/sulxxy/leetcode/blob/master/BinaryTreeInorderTraverse.java)
 - [100. Same Tree](https://github.com/sulxxy/leetcode/blob/master/SameTree.java)
 - [176. Single Number](https://github.com/sulxxy/leetcode/blob/master/SingleNumber.java)

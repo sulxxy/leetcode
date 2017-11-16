@@ -32,6 +32,7 @@
 - [053. Maximum Subarray](https://github.com/sulxxy/leetcode/blob/master/MaximumSubarray.java)
 - [058. Length of Last Word](https://github.com/sulxxy/leetcode/blob/master/LengthofLastWord.java)
 - [066. Plus One](https://github.com/sulxxy/leetcode/blob/master/PlusOne.java)
+- [069. Sqrt(x)](https://github.com/sulxxy/leetcode/blob/master/Sqrt.java)
 - [070. Climb Stairs](https://github.com/sulxxy/leetcode/blob/master/ClimbStairs.java)
 - [083. Remove Duplicates from Sorted List](https://github.com/sulxxy/leetcode/blob/master/RemoveDuplicatesFromSortedList.java)
 - [084. Binary Tree Inorder Traverse](https://github.com/sulxxy/leetcode/blob/master/BinaryTreeInorderTraverse.java)

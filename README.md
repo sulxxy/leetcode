@@ -27,7 +27,7 @@
 - [033. Search in Rotated Sorted Array](https://github.com/sulxxy/leetcode/blob/master/SearchInRotatedSortedArray.java)
 - [034. Search For a Range](https://github.com/sulxxy/leetcode/blob/master/SearchForARange.java)
 - [035. Search Insert Position](https://github.com/sulxxy/leetcode/blob/master/SearchInsertPosition.java)
-- [038. Cound and Say](https://github.com/sulxxy/leetcode/blob/master/CountAndSay.java)
+- [038. Count and Say](https://github.com/sulxxy/leetcode/blob/master/CountAndSay.java)
 - [053. Maximum Subarray](https://github.com/sulxxy/leetcode/blob/master/MaximumSubarray.java)
 - [058. Length of Last Word](https://github.com/sulxxy/leetcode/blob/master/LengthofLastWord.java)
 - [066. Plus One](https://github.com/sulxxy/leetcode/blob/master/PlusOne.java)
